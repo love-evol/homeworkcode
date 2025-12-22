@@ -96,5 +96,32 @@
     <ClCompile Include="准驾车型查询.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="十个元素交换.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="一维数组的计算.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="一维数组的查找.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="一维数组插入新数据.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="二维数组生成并批赋值.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="二维数组赋值后输出指定数组.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="二维数组计算.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="二维数组读取最大值和最小值并输出位置.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="杨辉三角形.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
