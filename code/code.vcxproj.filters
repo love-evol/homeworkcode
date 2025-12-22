@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="ASCII码值转换判断.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="test.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="成绩判断.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="成绩判断2.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="规律累加计算.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="计算一年煤气费.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="计算圆内接六边形的面积.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="奖金计算.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="判断大小写字母.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="判断闰年.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="判断是不是3，4的倍数.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="判断是几位数.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="平方数小于1000.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="棋盘放麦子.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="签到签退记录.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="求圆周率π的近似值.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="日期输入与显示.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="十个人成绩记录与分析.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="时间转化.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="数字成语.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="数字的组合.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="数字金字塔.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="水仙花数.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="素数的判断.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="泰勒级数.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="图书信息记录.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="准驾车型查询.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
