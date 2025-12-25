@@ -13,115 +13,144 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="源文件\homework">
+      <UniqueIdentifier>{432cbe80-548b-4ee4-80aa-649f59c1c3c7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Question Bank">
+      <UniqueIdentifier>{2ffa96e6-1934-419d-9b5e-1ae7f8fdf804}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="ASCII码值转换判断.c">
-      <Filter>源文件</Filter>
+      <Filter>源文件\homework</Filter>
     </ClCompile>
     <ClCompile Include="test.c">
-      <Filter>源文件</Filter>
+      <Filter>源文件\homework</Filter>
     </ClCompile>
     <ClCompile Include="成绩判断.c">
-      <Filter>源文件</Filter>
+      <Filter>源文件\homework</Filter>
     </ClCompile>
     <ClCompile Include="成绩判断2.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="规律累加计算.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="计算一年煤气费.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="计算圆内接六边形的面积.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="奖金计算.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="判断大小写字母.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="判断闰年.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="判断是不是3，4的倍数.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="判断是几位数.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="平方数小于1000.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="棋盘放麦子.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="签到签退记录.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="求圆周率π的近似值.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="日期输入与显示.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="十个人成绩记录与分析.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="时间转化.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="数字成语.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="数字的组合.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="数字金字塔.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="水仙花数.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="素数的判断.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="泰勒级数.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="图书信息记录.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="准驾车型查询.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="十个元素交换.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="一维数组的计算.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="一维数组的查找.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="一维数组插入新数据.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="二维数组生成并批赋值.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="二维数组赋值后输出指定数组.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="二维数组计算.c">
-      <Filter>源文件</Filter>
+      <Filter>源文件\homework</Filter>
     </ClCompile>
     <ClCompile Include="二维数组读取最大值和最小值并输出位置.c">
-      <Filter>源文件</Filter>
+      <Filter>源文件\homework</Filter>
+    </ClCompile>
+    <ClCompile Include="二维数组赋值后输出指定数组.c">
+      <Filter>源文件\homework</Filter>
+    </ClCompile>
+    <ClCompile Include="二维数组计算.c">
+      <Filter>源文件\homework</Filter>
+    </ClCompile>
+    <ClCompile Include="二维数组生成并批赋值.c">
+      <Filter>源文件\homework</Filter>
+    </ClCompile>
+    <ClCompile Include="规律累加计算.c">
+      <Filter>源文件\homework</Filter>
+    </ClCompile>
+    <ClCompile Include="计算一年煤气费.c">
+      <Filter>源文件\homework</Filter>
+    </ClCompile>
+    <ClCompile Include="计算圆内接六边形的面积.c">
+      <Filter>源文件\homework</Filter>
+    </ClCompile>
+    <ClCompile Include="奖金计算.c">
+      <Filter>源文件\homework</Filter>
+    </ClCompile>
+    <ClCompile Include="判断大小写字母.c">
+      <Filter>源文件\homework</Filter>
+    </ClCompile>
+    <ClCompile Include="判断回文串.c">
+      <Filter>源文件\homework</Filter>
+    </ClCompile>
+    <ClCompile Include="判断闰年.c">
+      <Filter>源文件\homework</Filter>
+    </ClCompile>
+    <ClCompile Include="判断是不是3，4的倍数.c">
+      <Filter>源文件\homework</Filter>
+    </ClCompile>
+    <ClCompile Include="判断是几位数.c">
+      <Filter>源文件\homework</Filter>
+    </ClCompile>
+    <ClCompile Include="平方数小于1000.c">
+      <Filter>源文件\homework</Filter>
+    </ClCompile>
+    <ClCompile Include="棋盘放麦子.c">
+      <Filter>源文件\homework</Filter>
+    </ClCompile>
+    <ClCompile Include="签到签退记录.c">
+      <Filter>源文件\homework</Filter>
+    </ClCompile>
+    <ClCompile Include="求圆周率π的近似值.c">
+      <Filter>源文件\homework</Filter>
+    </ClCompile>
+    <ClCompile Include="日期输入与显示.c">
+      <Filter>源文件\homework</Filter>
+    </ClCompile>
+    <ClCompile Include="十个人成绩记录与分析.c">
+      <Filter>源文件\homework</Filter>
+    </ClCompile>
+    <ClCompile Include="十个元素交换.c">
+      <Filter>源文件\homework</Filter>
+    </ClCompile>
+    <ClCompile Include="时间转化.c">
+      <Filter>源文件\homework</Filter>
+    </ClCompile>
+    <ClCompile Include="数字成语.c">
+      <Filter>源文件\homework</Filter>
+    </ClCompile>
+    <ClCompile Include="数字的组合.c">
+      <Filter>源文件\homework</Filter>
+    </ClCompile>
+    <ClCompile Include="数字金字塔.c">
+      <Filter>源文件\homework</Filter>
+    </ClCompile>
+    <ClCompile Include="水仙花数.c">
+      <Filter>源文件\homework</Filter>
+    </ClCompile>
+    <ClCompile Include="素数的判断.c">
+      <Filter>源文件\homework</Filter>
+    </ClCompile>
+    <ClCompile Include="泰勒级数.c">
+      <Filter>源文件\homework</Filter>
+    </ClCompile>
+    <ClCompile Include="统计数字字符个数.c">
+      <Filter>源文件\homework</Filter>
+    </ClCompile>
+    <ClCompile Include="图书信息记录.c">
+      <Filter>源文件\homework</Filter>
     </ClCompile>
     <ClCompile Include="杨辉三角形.c">
+      <Filter>源文件\homework</Filter>
+    </ClCompile>
+    <ClCompile Include="一维数组插入新数据.c">
+      <Filter>源文件\homework</Filter>
+    </ClCompile>
+    <ClCompile Include="一维数组的查找.c">
+      <Filter>源文件\homework</Filter>
+    </ClCompile>
+    <ClCompile Include="一维数组的计算.c">
+      <Filter>源文件\homework</Filter>
+    </ClCompile>
+    <ClCompile Include="找最大字符串程序.c">
+      <Filter>源文件\homework</Filter>
+    </ClCompile>
+    <ClCompile Include="准驾车型查询.c">
+      <Filter>源文件\homework</Filter>
+    </ClCompile>
+    <ClCompile Include="字符逆置.c">
+      <Filter>源文件\homework</Filter>
+    </ClCompile>
+    <ClCompile Include="1. 两数之和.c">
       <Filter>源文件</Filter>
     </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="resource.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="resource1.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
