@@ -1,6 +1,6 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include<stdio.h>
-main()
+int main()
 {
 	double i, bonus;
 	printf("请输入当月利润（万元）：");

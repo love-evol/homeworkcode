@@ -1,6 +1,6 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include<stdio.h>
-main()
+int main()
 {
 	/*给定一个二维数组a,有2行3列，分别初始化值为1,2,3,4,5,6；编写程序输出数组中第1行第2列的元素（注意：数组下标从0开始）。*/
 	int a[2][3];

@@ -16,8 +16,11 @@
     <Filter Include="源文件\homework">
       <UniqueIdentifier>{432cbe80-548b-4ee4-80aa-649f59c1c3c7}</UniqueIdentifier>
     </Filter>
-    <Filter Include="源文件\Question Bank">
+    <Filter Include="源文件\leetcode">
       <UniqueIdentifier>{2ffa96e6-1934-419d-9b5e-1ae7f8fdf804}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\luogu">
+      <UniqueIdentifier>{979ea3e7-ef8f-4290-9d34-a5f80564269f}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
@@ -141,16 +144,23 @@
     <ClCompile Include="字符逆置.c">
       <Filter>源文件\homework</Filter>
     </ClCompile>
-    <ClCompile Include="1. 两数之和.c">
+    <ClCompile Include="两数之和.c">
+      <Filter>源文件\leetcode</Filter>
+    </ClCompile>
+    <ClCompile Include="B2001.c">
       <Filter>源文件</Filter>
     </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="resource.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
-    <ClInclude Include="resource1.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
+    <ClCompile Include="B2002.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="B2003.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="B2004.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="B2005.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

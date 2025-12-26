@@ -1,6 +1,5 @@
 #include<stdio.h>
-
-main()
+int main()
 {
 	int i = 5;
 	do

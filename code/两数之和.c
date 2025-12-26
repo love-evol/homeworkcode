@@ -1,7 +1,7 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include<stdio.h>
 /*给定一个整数数组 nums 和一个整数目标值 target，请你在该数组中找出 和为目标值 target  的那 两个 整数，并返回它们的数组下标。*/
-main()
+int main()
 {
 	int nums[10], target, temp, n, i, find=0;
 	printf("请输入nums的数组:");

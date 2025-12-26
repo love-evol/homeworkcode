@@ -1,6 +1,6 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include<stdio.h>
-main()
+int main()
 {
 	/*编写一个程序，遍历一个4行5列的二维整数数组，并计算所有元素的和，最后输出这个和。*/
 	int a[4][5];

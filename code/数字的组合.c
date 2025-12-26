@@ -1,7 +1,7 @@
 /*编写程序：统计由0....9个数字，能组成多少个互不相同且无重复数字的三位数？都是多少？*/
 #define _CRT_SECURE_NO_WARNINGS
 #include<stdio.h>
-main()
+int main()
 {
 	int i, j, k, count = 0;
 	for (i = 1; i <= 9; i++)      //百位

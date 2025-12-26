@@ -2,7 +2,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 /*随机产生100个整数存放于数组中，再从键盘输入一个整数，查找该数是否在数组中，如果存在，则输出第1次存在的位置，如果不存在，则输出“该数不存在”。*/
-main()
+int main()
 {
 	int random_num[100], i, target_number;
 	for (i = 0; i < 100; i++)

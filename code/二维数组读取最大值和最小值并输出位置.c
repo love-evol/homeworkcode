@@ -1,7 +1,7 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include<stdio.h>
 #include<stdlib.h>
-main()
+int main()
 {
 	/*编写程序，使用随机函数产生48个整数，分成6行8列存放在二维数组s中，
 	找出最大数与最小数，及它们数的位置，并以矩阵方式输出二维数组中各元素值。*/
