@@ -16,11 +16,11 @@
     <Filter Include="源文件\homework">
       <UniqueIdentifier>{432cbe80-548b-4ee4-80aa-649f59c1c3c7}</UniqueIdentifier>
     </Filter>
-    <Filter Include="源文件\leetcode">
-      <UniqueIdentifier>{2ffa96e6-1934-419d-9b5e-1ae7f8fdf804}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="源文件\luogu">
+    <Filter Include="源文件\洛谷">
       <UniqueIdentifier>{979ea3e7-ef8f-4290-9d34-a5f80564269f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\力扣">
+      <UniqueIdentifier>{2ffa96e6-1934-419d-9b5e-1ae7f8fdf804}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
@@ -145,22 +145,64 @@
       <Filter>源文件\homework</Filter>
     </ClCompile>
     <ClCompile Include="两数之和.c">
-      <Filter>源文件\leetcode</Filter>
+      <Filter>源文件\力扣</Filter>
+    </ClCompile>
+    <ClCompile Include="B2008.c">
+      <Filter>源文件\洛谷</Filter>
+    </ClCompile>
+    <ClCompile Include="B2009.c">
+      <Filter>源文件\洛谷</Filter>
     </ClCompile>
     <ClCompile Include="B2001.c">
-      <Filter>源文件</Filter>
+      <Filter>源文件\洛谷</Filter>
     </ClCompile>
     <ClCompile Include="B2002.c">
-      <Filter>源文件</Filter>
+      <Filter>源文件\洛谷</Filter>
     </ClCompile>
     <ClCompile Include="B2003.c">
-      <Filter>源文件</Filter>
+      <Filter>源文件\洛谷</Filter>
     </ClCompile>
     <ClCompile Include="B2004.c">
-      <Filter>源文件</Filter>
+      <Filter>源文件\洛谷</Filter>
     </ClCompile>
     <ClCompile Include="B2005.c">
-      <Filter>源文件</Filter>
+      <Filter>源文件\洛谷</Filter>
+    </ClCompile>
+    <ClCompile Include="B2006.c">
+      <Filter>源文件\洛谷</Filter>
+    </ClCompile>
+    <ClCompile Include="B2007.c">
+      <Filter>源文件\洛谷</Filter>
+    </ClCompile>
+    <ClCompile Include="B2010.c">
+      <Filter>源文件\洛谷</Filter>
+    </ClCompile>
+    <ClCompile Include="B2011.c">
+      <Filter>源文件\洛谷</Filter>
+    </ClCompile>
+    <ClCompile Include="B2012.c">
+      <Filter>源文件\洛谷</Filter>
+    </ClCompile>
+    <ClCompile Include="B2013.c">
+      <Filter>源文件\洛谷</Filter>
+    </ClCompile>
+    <ClCompile Include="B2014.c">
+      <Filter>源文件\洛谷</Filter>
+    </ClCompile>
+    <ClCompile Include="B2015.c">
+      <Filter>源文件\洛谷</Filter>
+    </ClCompile>
+    <ClCompile Include="B2016.c">
+      <Filter>源文件\洛谷</Filter>
+    </ClCompile>
+    <ClCompile Include="B2017.c">
+      <Filter>源文件\洛谷</Filter>
+    </ClCompile>
+    <ClCompile Include="B2018.c">
+      <Filter>源文件\洛谷</Filter>
+    </ClCompile>
+    <ClCompile Include="B2019.c">
+      <Filter>源文件\洛谷</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
