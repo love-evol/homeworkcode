@@ -204,5 +204,29 @@
     <ClCompile Include="B2019.c">
       <Filter>源文件\洛谷</Filter>
     </ClCompile>
+    <ClCompile Include="B2020.c">
+      <Filter>源文件\洛谷</Filter>
+    </ClCompile>
+    <ClCompile Include="B2021.c">
+      <Filter>源文件\洛谷</Filter>
+    </ClCompile>
+    <ClCompile Include="B2022.c">
+      <Filter>源文件\洛谷</Filter>
+    </ClCompile>
+    <ClCompile Include="B2023.c">
+      <Filter>源文件\洛谷</Filter>
+    </ClCompile>
+    <ClCompile Include="B2024.c">
+      <Filter>源文件\洛谷</Filter>
+    </ClCompile>
+    <ClCompile Include="B2025.c">
+      <Filter>源文件\洛谷</Filter>
+    </ClCompile>
+    <ClCompile Include="B2026.c">
+      <Filter>源文件\洛谷</Filter>
+    </ClCompile>
+    <ClCompile Include="B2027.c">
+      <Filter>源文件\洛谷</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
