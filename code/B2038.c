@@ -1,0 +1,25 @@
+#define _CRT_SECURE_NO_WARNINGS
+#include<stdio.h>
+/*题目描述
+任意输入一个字符，判断其 ASCII 是否是奇数，若是，输出 YES，否则，输出 NO 。
+
+例如，字符 A 的 ASCII 值是 65，则输出 YES，若输入字符 B(ASCII 值是 66)，则输出 NO。
+
+输入格式
+输入一个字符。
+
+输出格式
+如果其 ASCII 值为奇数，则输出 YES，否则，输出 NO。*/
+int main()
+{
+	char ch;
+	scanf("%c", &ch);
+	if (ch % 2 == 1)
+	{
+		printf("YES");
+	}
+	else
+	{
+		printf("NO");
+	}
+}

@@ -228,5 +228,41 @@
     <ClCompile Include="B2027.c">
       <Filter>源文件\洛谷</Filter>
     </ClCompile>
+    <ClCompile Include="B2028.c">
+      <Filter>源文件\洛谷</Filter>
+    </ClCompile>
+    <ClCompile Include="B2029.c">
+      <Filter>源文件\洛谷</Filter>
+    </ClCompile>
+    <ClCompile Include="B2030.c">
+      <Filter>源文件\洛谷</Filter>
+    </ClCompile>
+    <ClCompile Include="B2031.c">
+      <Filter>源文件\洛谷</Filter>
+    </ClCompile>
+    <ClCompile Include="B2032.c">
+      <Filter>源文件\洛谷</Filter>
+    </ClCompile>
+    <ClCompile Include="B2033.c">
+      <Filter>源文件\洛谷</Filter>
+    </ClCompile>
+    <ClCompile Include="B2036.c">
+      <Filter>源文件\洛谷</Filter>
+    </ClCompile>
+    <ClCompile Include="B2035.c">
+      <Filter>源文件\洛谷</Filter>
+    </ClCompile>
+    <ClCompile Include="B2034.c">
+      <Filter>源文件\洛谷</Filter>
+    </ClCompile>
+    <ClCompile Include="B2039.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="B2037.c">
+      <Filter>源文件\洛谷</Filter>
+    </ClCompile>
+    <ClCompile Include="B2038.c">
+      <Filter>源文件\洛谷</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
